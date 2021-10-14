@@ -1,2 +1,2 @@
-a <- "Hello Git!"
-print(a)
+b <- "Hello Git!"
+print(b)
