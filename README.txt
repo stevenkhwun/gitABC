@@ -1,2 +1,3 @@
-This is my first Git repository.
-Modified at 14/10/2021 11:15.
+This repository contains notes of the edX course "Introduction to Computer Science and Programming Using Python".
+
+Modified at 26.05.2023
